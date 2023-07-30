@@ -1,4 +1,4 @@
-# DMBS_Demo
+# DBMS_Demo
 This repo contains a video demo of the DBMS that I made.
 
 I implemented the following:
