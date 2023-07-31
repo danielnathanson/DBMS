@@ -1,5 +1,5 @@
 # DBMS_Demo
-This repo contains a video demo of the DBMS that I made.
+This repo contains a video demo of the relational DBMS that I made.
 
 I implemented the following:
 
@@ -10,4 +10,4 @@ I implemented the following:
 - concurrency
 - recovery
 
-This was a class project of mine where I implemented all of the above functionality on top of an existing basic DBMS. Unfortunately, I cannot show the code that I wrote in this public repository because future students might find and copy it.
+This was a class project of mine where I implemented the above functionalities on top of a provided bare-bones DBMS. Unfortunately, I cannot show the code that I wrote in this public repository because future students might find and copy it.
