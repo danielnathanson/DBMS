@@ -1,4 +1,4 @@
-# DBMS_Demo
+# DBMS
 This repo contains a video demo of the relational DBMS that I made.
 
 I implemented the following:
