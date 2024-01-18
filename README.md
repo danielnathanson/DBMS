@@ -10,4 +10,4 @@ I implemented the following:
 - concurrency
 - recovery
 
-This was a class project of mine where I implemented the above functionalities on top of a provided bare-bones DBMS. Unfortunately, I cannot show the code that I wrote in this public repository because future students might come across this repository.
+This was a class project of mine where I implemented the above functionalities on top of a provided bare-bones DBMS. Unfortunately, I cannot show the code that I wrote in this public repository because future students might come across it.
